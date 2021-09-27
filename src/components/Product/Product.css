@@ -1,0 +1,22 @@
+.photo img{
+    width: 300px;
+}
+.product{
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: whitesmoke;
+}
+.card-inf{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-regular{
+    /* background-color: blueviolet; */
+    /* width: 270px; */
+    background-color: goldenrod;
+    width: 250px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
